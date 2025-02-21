@@ -3,6 +3,12 @@ A conference call implementation using WebRTC, Socket.io and Node.js. This demo 
 
 
 # Getting Started
+- Have nodejs installed.
+- If not, download and install Node.js from the official website: [https://nodejs.org/](https://nodejs.org/).
+- verify it by
+     node -v
+     npm -v
+- cd your-file-path
 - Run `npm ci`
 - `cd src`
 - `npm start`
